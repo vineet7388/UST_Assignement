@@ -1,0 +1,66 @@
+{
+    "machines":[
+        {
+            "id":"1",
+            "name":"CNC machine",
+            "health": "acceptable",
+            "status": "deployed",
+            "latestReport" : "17-07-2024"
+        },
+        {
+            "id":"2",
+            "name":"Laser cutter",
+            "health": "no status",
+            "status": "under-maintainance",
+            "latestReport" : "17-07-2024"
+        },
+        {
+            "id":"3",
+            "name":"3D printer",
+            "health": "acceptable",
+            "status": "deployed",
+            "latestReport" : "17-07-2024"
+        },
+        {
+            "id":"4",
+            "name":"Knuckleboom loader",
+            "health": "Monitor",
+            "status": "deployed",
+            "latestReport" : "17-07-2024"
+        },
+        {
+            "id":"5",
+            "name":"Boom lift",
+            "health": "Danger",
+            "status": "deployed",
+            "latestReport" : "17-07-2024"
+        },
+        {
+            "id":"6",
+            "name":"Cold planer",
+            "health": "Monitor",
+            "status": "deployed",
+            "latestReport" : "17-07-2024"
+        },{
+            "id":"7",
+            "name":"Packaging machine",
+            "health": "Monitor",
+            "status": "deployed",
+            "latestReport" : "17-07-2024"
+        },
+        {
+            "id":"8",
+            "name":"Mixers",
+            "health": "Danger",
+            "status": "under-maintainance",
+            "latestReport" : "17-07-2024"
+        },
+        {
+            "id":"9",
+            "name":"Printer",
+            "health": "Alarm",
+            "status": "deployed",
+            "latestReport" : "17-07-2024"
+        }
+    ]
+}
