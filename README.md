@@ -1,3 +1,6 @@
+#Before starting please make sure CORS is allowed
+Dummy JSON link- https://dummyjson.com/c/b2e4-a00b-4d36-a6aa
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
